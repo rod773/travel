@@ -2,8 +2,7 @@
 
 Zenith is a high-end travel discovery and booking application designed for a seamless experience across web and mobile platforms. Built with a "Midnight" aesthetic, it combines cinematic visuals with a native-like mobile interface.
 
-![Zenith Travel App Preview](https://github.com/rod773/travel/raw/main/public/preview.webp)
-*(Note: Replace with actual hosted preview URL if available)*
+![Zenith Travel App Preview](public/preview.webp)
 
 ## ✨ Key Features
 
