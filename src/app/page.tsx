@@ -14,7 +14,7 @@ const destinations = [
     price: "$2,400",
     rating: 4.9,
     category: "Tropical",
-    image: "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1506929113614-bb92850b3940?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Whitepod Eco-Resort",
@@ -22,7 +22,7 @@ const destinations = [
     price: "$850",
     rating: 4.8,
     category: "Mountains",
-    image: "https://images.unsplash.com/photo-1517043584465-4d3ca9e31b1c?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1502784444187-359ac186c5bb?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Hoshinoya Kyoto",
@@ -41,20 +41,20 @@ const destinations = [
     image: "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&q=80&w=800"
   },
   {
-    title: "Zannier Hotels Bãi San Hô",
+    title: "Anantara Quy Nhon",
     location: "Sông Cầu, Vietnam",
     price: "$600",
     rating: 4.7,
     category: "Beach",
-    image: "https://images.unsplash.com/photo-1540202404-a2f29033882a?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&q=80&w=800"
   },
   {
-    title: "Amanjena",
+    title: "Riad Yasmine",
     location: "Marrakech, Morocco",
     price: "$1,100",
     rating: 4.8,
     category: "Oasis",
-    image: "https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1539367628448-4bc5c9d171c8?auto=format&fit=crop&q=80&w=800"
   }
 ];
 

@@ -10,9 +10,9 @@ export function Hero() {
       {/* Background Image Placeholder with Overlay */}
       <div 
         className="absolute inset-0 bg-cover bg-center transition-transform duration-1000 hover:scale-105"
-        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1506929113614-bb92850b3940?auto=format&fit=crop&q=80&w=2000')" }}
+        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&q=80&w=2000')" }}
       >
-        <div className="absolute inset-0 bg-black/40 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
+        <div className="absolute inset-0 bg-background/40 bg-gradient-to-t from-background/90 via-background/20 to-transparent" />
       </div>
 
       <div className="relative z-10 text-center px-4 max-w-4xl">
